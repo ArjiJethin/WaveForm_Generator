@@ -1,0 +1,88 @@
+Circuit: * D:\EC Project\Square WaveForm Generator\Square WaveForm Generator.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03922
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.02313
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01616
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 1.01205
+vernier = 0.00115741
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.0104
+vernier = 0.00102881
+Gmin = 1.00812
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.00704
+vernier = 0.000514403
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 1.00622
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 7.95455%
+Source Step = 9.84848%
+Source Step = 11.7424%
+Source Step = 13.6364%
+Source Step = 15.5303%
+vernier = 0.09375
+Source Step = 17.8977%
+Source Step = 20.7386%
+Source Step = 23.5795%
+Source Step = 26.4205%
+Source Step = 29.2614%
+vernier = 0.140625
+Source Step = 32.6705%
+Source Step = 36.9318%
+Source Step = 41.1932%
+Source Step = 45.4545%
+Source Step = 49.7159%
+vernier = 0.210938
+Source Step = 54.6165%
+Source Step = 61.0085%
+Source Step = 67.4006%
+Source Step = 73.7926%
+Source Step = 80.1847%
+vernier = 0.316406
+Source Step = 87.2159%
+Source Step = 96.804%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Jan 03 15:17:55 2024
+Total elapsed time: 0.485 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11493
+traniter = 3819
+tranpoints = 1576
+accept = 1381
+rejected = 195
+matrix size = 14
+fillins = 22
+solver = Normal
+Matrix Compiler1: 2.17 KB object code size  0.8/0.4/[0.3]
+Matrix Compiler2: 1.91 KB object code size  0.4/0.5/[0.3]
+

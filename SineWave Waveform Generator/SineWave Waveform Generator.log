@@ -1,0 +1,88 @@
+Circuit: * D:\EC Project\SineWave Waveform Generator\SineWave Waveform Generator.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03922
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.02313
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01616
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 1.01205
+vernier = 0.00115741
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.0104
+vernier = 0.00102881
+Gmin = 1.00812
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.00704
+vernier = 0.000514403
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 1.00622
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 6.25%
+Source Step = 8.14394%
+Source Step = 10.0379%
+Source Step = 11.9318%
+Source Step = 13.8258%
+vernier = 0.09375
+Source Step = 16.0985%
+Source Step = 18.9394%
+Source Step = 21.7803%
+Source Step = 24.6212%
+Source Step = 27.4621%
+vernier = 0.140625
+Source Step = 30.7292%
+Source Step = 34.9905%
+Source Step = 39.2519%
+Source Step = 43.5133%
+Source Step = 47.7746%
+vernier = 0.210938
+Source Step = 52.4621%
+Source Step = 58.8542%
+Source Step = 65.2462%
+Source Step = 71.6383%
+Source Step = 78.0303%
+vernier = 0.316406
+Source Step = 84.742%
+Source Step = 94.33%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Jan 03 15:16:53 2024
+Total elapsed time: 0.529 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10572
+traniter = 2824
+tranpoints = 1127
+accept = 1090
+rejected = 37
+matrix size = 15
+fillins = 11
+solver = Normal
+Matrix Compiler1: 1.19 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 1.53 KB object code size  0.5/0.5/[0.3]
+
