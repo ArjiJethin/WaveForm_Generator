@@ -1,10 +1,10 @@
-<h1 align="center">Op-Amp WaveForm Generators</h1>
+<h1 align="center">Op-Amp WaveForm Generators 🎛️</h1>
 
 <p align="center">
   <img src="BG.webp" alt="Galactic TrailBlaze Logo" height="200" />
 </p>
 
-<h2>Overview</h2>
+<h2>Overview 📊</h2>
 <p>
   This project aims to design and simulate various waveform generators using
   operational amplifiers (op-amps) in LTSpice, a powerful circuit simulation
@@ -53,14 +53,14 @@
   </li>
 </ul>
 
-<h2>Contributing</h2>
+<h2>Contributing 🤝</h2>
 <p>
-  We welcome contributions from the community!. It will be real helpful if this
-  small idea becomes a real life gadget, so I will be really glad if u can make
+  We welcome contributions from the community! It will be really helpful if this
+  small idea becomes a real-life gadget, so I will be glad if you can make
   contributions to this repository.
 </p>
 
-<h2>License</h2>
+<h2>License 📝</h2>
 <p>
   This project is licensed under the <strong>MIT License</strong>. For more
   information, please refer to the <a href="LICENSE">LICENSE</a> file.
@@ -72,7 +72,7 @@
     <strong>Karthikeya:</strong>
     <p>
       For his help in developing the circuit model and actively aiding in the
-      fixes and refining and fixing the issues in the circuit model.
+      fixes and refining the circuit model.
       <br />
       Check his GitHub page at:
       <a href="https://github.com/alurubalakarthikeya"> Here </a>
@@ -81,7 +81,7 @@
   <li>
     <strong>Ayush:</strong>
     For his help in developing the circuit model and actively aiding in the
-    fixes and refining and fixing the issues in the circuit model.
+    fixes and refining the circuit model.
     <br />
     Check his GitHub page at:
     <a href="https://github.com/ayushsingh08-ds">Here</a>
@@ -90,17 +90,17 @@
 
 <h2>Details</h2>
 
-<h3>⦾ SineWave WaveForm Generators Page:-</h3>
+<h3>⦾ SineWave WaveForm Generators Page:</h3>
 <div align="center">
   <img
     src="SineWave Waveform Generator/LTSice Circuit.png"
-    alt="Main Goggle Pic"
+    alt="Sine Waveform Generator Circuit"
     height="300px"
   />
   <img src="" alt="" height="5px" />
   <img
     src="SineWave Waveform Generator/LTSpice Output.png"
-    alt="Main Goggle Pic"
+    alt="Sine Waveform Generator Output"
     height="300px"
   />
   <img src="" alt="" height="5px" />
@@ -116,17 +116,17 @@
   for various testing scenarios.
 </p>
 
-<h3>⦾ SquareWave WaveForm Generators Page:-</h3>
+<h3>⦾ SquareWave WaveForm Generators Page:</h3>
 <div align="center">
   <img
     src="Square WaveForm Generator/LTSpice Circuit.png"
-    alt="Main Goggle Pic"
+    alt="Square Waveform Generator Circuit"
     height="300px"
   />
   <img src="" alt="" height="5px" />
   <img
     src="Square WaveForm Generator/LTSpice Output.png"
-    alt="Main Goggle Pic"
+    alt="Square Waveform Generator Output"
     height="300px"
   />
   <img src="" alt="" height="5px" />
@@ -141,17 +141,17 @@
   modified by changing the component values, allowing for flexibility in design.
 </p>
 
-<h3>⦾ TriangleWave WaveForm Generators Page:-</h3>
+<h3>⦾ TriangleWave WaveForm Generators Page:</h3>
 <div align="center">
   <img
     src="Triangular WaveForm Generator/LTSpice Circuit.png"
-    alt="Main Goggle Pic"
+    alt="Triangle Waveform Generator Circuit"
     height="300px"
   />
   <img src="" alt="" height="5px" />
   <img
     src="Triangular WaveForm Generator/LTSpice Output.png"
-    alt="Main Goggle Pic"
+    alt="Triangle Waveform Generator Output"
     height="300px"
   />
   <img src="" alt="" height="5px" />
@@ -167,7 +167,7 @@
   adaptability to specific requirements.
 </p>
 
-<h2>Conclusion</h2>
+<h2>Conclusion 🏁</h2>
 <p>
   The waveform generator project utilizing operational amplifiers in LTSpice
   successfully demonstrates the principles of analog signal generation. By
