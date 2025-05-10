@@ -1,7 +1,7 @@
 <h1 align="center">Op-Amp WaveForm Generators 🎛️</h1>
 
 <p align="center">
-  <img src="BG.webp" alt="Galactic TrailBlaze Logo" height="200" />
+  <img src="BG.webp" alt="Galactic TrailBlaze Logo" height="210" />
 </p>
 
 <h2>Overview 📊</h2>
